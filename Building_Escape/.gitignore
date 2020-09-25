@@ -1,6 +1,9 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+# Content folder (temporarily to upload)
+Content/*
+
 # Compiled Object files
 *.slo
 *.lo
